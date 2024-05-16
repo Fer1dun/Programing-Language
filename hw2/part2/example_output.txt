@@ -1,0 +1,3 @@
+Metin girmek için devam edin veya çıkmak için 'q' tuşuna basın: 
+op_comment 
+op_comment 
